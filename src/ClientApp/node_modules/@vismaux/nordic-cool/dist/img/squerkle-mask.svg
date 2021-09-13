@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Frame" d="M100,0c89.532,0,100,9.985,100,100S189.7,200,100,200,0,184.836,0,100,10.468,0,100,0Z" transform="translate(459 5815)" fill="#f0f2f5"/>
+    </clipPath>
+  </defs>
+  <g id="Group_246" data-name="Group 246" transform="translate(-459 -5815)">
+    <g id="Photo_Circle" data-name="Photo Circle">
+      <g id="Mask" transform="translate(0)" clip-path="url(#clip-path)">
+        <g id="User_profile_placeholder_v3" data-name="User profile placeholder_v3" transform="translate(471.792 5816.482)">
+          <rect id="Container" width="200" height="200" transform="translate(-12.792 -1.483)" fill="#868e96"/>
+        </g>
+      </g>
+    </g>
+    <text id="Squerkle_mask" data-name="Squerkle mask" transform="translate(515 5921)" fill="#dee2e6" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Squerkle mask</tspan></text>
+  </g>
+</svg>
