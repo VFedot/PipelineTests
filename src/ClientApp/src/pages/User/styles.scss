@@ -1,0 +1,13 @@
+
+.user-info {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.user-info li {
+    font-size: 20px;
+    line-height: 1.8;
+    margin: 0 auto;
+}

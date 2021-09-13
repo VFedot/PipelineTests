@@ -1,0 +1,30 @@
+.home {
+    color: #fff;
+}
+.home-title {
+    padding: 50px 0;
+}
+
+.table {
+    color: #fff;
+    border: 2px solid white;
+    width: 50%;
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    padding: 10px;
+    border: 2px solid #fff;
+    border-collapse: collapse;
+}
+.home table th:first-child {
+     width: 130px;
+}
+.table-row {
+    cursor: pointer;
+}
+.table-row:hover {
+    background-color: red;
+}

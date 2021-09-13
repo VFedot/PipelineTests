@@ -1,0 +1,17 @@
+﻿@import "../../scss/core.scss";
+footer {
+  border: none;
+  margin-top: 100px;
+  background-color: #fff;
+}
+
+footer span {
+  color: #252626;
+}
+.copyright {
+  display: flex;
+  height: 100%;
+  font-size: 16px;
+  @include min-max(320px, 1280px, 0px);
+  box-shadow: 0px 10px #163e59 0.15;
+}
