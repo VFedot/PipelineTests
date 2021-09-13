@@ -7,8 +7,8 @@ trigger:
 - main
 
 variables:
-  uiSource: 'src/ClientApp'
-  uiBuild: '$(uiSource)/build/'
+  uiSource: 'src/ClientApp/'
+  uiBuild: '$(uiSource)/build'
 
 pool:
   vmImage: ubuntu-latest
@@ -21,6 +21,7 @@ steps:
 
 - script: |
     pushd $(uiSource)
+    unset NPM_CONFIG_USER
     npm install
     npm run build
     popd
